@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/triangle-business/static/css/main.0222b7ab.chunk.css",
+    "main.js": "/triangle-business/static/js/main.242f8e86.chunk.js",
+    "main.js.map": "/triangle-business/static/js/main.242f8e86.chunk.js.map",
+    "runtime-main.js": "/triangle-business/static/js/runtime-main.571959f2.js",
+    "runtime-main.js.map": "/triangle-business/static/js/runtime-main.571959f2.js.map",
+    "static/js/2.cf71fc8f.chunk.js": "/triangle-business/static/js/2.cf71fc8f.chunk.js",
+    "static/js/2.cf71fc8f.chunk.js.map": "/triangle-business/static/js/2.cf71fc8f.chunk.js.map",
+    "index.html": "/triangle-business/index.html",
+    "precache-manifest.818847004b9f26dc4f0cc721fc92f3bf.js": "/triangle-business/precache-manifest.818847004b9f26dc4f0cc721fc92f3bf.js",
+    "service-worker.js": "/triangle-business/service-worker.js",
+    "static/css/main.0222b7ab.chunk.css.map": "/triangle-business/static/css/main.0222b7ab.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.571959f2.js",
+    "static/js/2.cf71fc8f.chunk.js",
+    "static/css/main.0222b7ab.chunk.css",
+    "static/js/main.242f8e86.chunk.js"
+  ]
+}
